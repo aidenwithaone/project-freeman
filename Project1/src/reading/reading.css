@@ -1,5 +1,6 @@
 body{
-    background-image: url(/src/imgs/background.jpg);
+    background-image: url(src/imgs/background.jpg);
+    background-color: black;
 }
 .white{
     color: white;
@@ -48,5 +49,25 @@ h1{
     border: 2px solid rgb(47, 47, 52);
     border-radius: 5px;
     background-color: black;
+    margin: 2px;
+}
+#githubimg{
+    width: 30px;
+    bottom: 7px;
+    right: 48px;
+    position: fixed;
+    border: 2px solid rgb(47, 47, 52);
+    border-radius: 5px;
+    background-color: black;
+    margin: 2px;
+}
+#blockedimg{
+    width: 30px;
+    bottom: 7px;
+    right: 90px;
+    position: fixed;
+    border: 2px solid rgb(200, 111, 107);
+    border-radius: 5px;
+    background-color: rgb(212, 75, 69);
     margin: 2px;
 }
