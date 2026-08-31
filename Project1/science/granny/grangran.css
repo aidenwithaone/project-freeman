@@ -1,0 +1,73 @@
+body{
+    background-image: url(background.jpg);
+    background-color: black;
+}
+.white{
+    color: white;
+}
+h1{
+    text-align: center;
+    font-family: "Archivo Black", sans-serif;
+}
+.gslot{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: black;
+    margin: 2px;
+}
+.gslot .gslotname{
+    padding: 5px;
+    text-decoration-color: white;
+    text-align: center;
+    color: white;
+    font-family: "Rubik Spray Paint", system-ui;
+}
+.gslot:hover{
+    border: 2px solid rgb(208, 208, 208);
+}
+#discordimg{
+    width: 30px;
+    bottom: 7px;
+    right: 7px;
+    position: fixed;
+    border: 2px solid rgb(72, 82, 201);
+    border-radius: 5px;
+    background-color: black;
+    margin: 2px;
+}
+#version{
+    color: white;
+    text-align: center;
+    font-family: "Archivo Black", sans-serif;
+}
+#githubimg{
+    width: 30px;
+    bottom: 7px;
+    right: 48px;
+    position: fixed;
+    border: 2px solid rgb(47, 47, 52);
+    border-radius: 5px;
+    background-color: black;
+    margin: 2px;
+}
+#githubimg{
+    width: 30px;
+    bottom: 7px;
+    right: 48px;
+    position: fixed;
+    border: 2px solid rgb(47, 47, 52);
+    border-radius: 5px;
+    background-color: black;
+    margin: 2px;
+}
+#blockedimg{
+    width: 30px;
+    bottom: 7px;
+    right: 90px;
+    position: fixed;
+    border: 2px solid rgb(200, 111, 107);
+    border-radius: 5px;
+    background-color: rgb(212, 75, 69);
+    margin: 2px;
+}
