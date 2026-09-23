@@ -3,4 +3,4 @@ document.getElementById("discordimg").onclick = function(){
 }
 fetch('https://cdn.jsdelivr.net/gh/aidenwithaone/project-freeman-resources@refs/heads/main/version.txt').then(r=>r.text()).then(v=>document.getElementById('version').textContent=v)
 
-window.alert("I may need more people to work on this project. if anyone knows HTML/CSS, Make a Form telling such.")
+window.alert("Who tring to get a JOB?")
