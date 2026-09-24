@@ -1,6 +1,2 @@
-document.getElementById("discordimg").onclick = function(){
-    window.alert("Discord Soon")
-}
 fetch('https://cdn.jsdelivr.net/gh/aidenwithaone/project-freeman-resources@refs/heads/main/version.txt').then(r=>r.text()).then(v=>document.getElementById('version').textContent=v)
-
-window.alert("Who tring to get a JOB?")
+window.alert("Fun Fact: Admin-ixl.org has gotten 4K Total Visits")
